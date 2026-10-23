@@ -1,0 +1,722 @@
+{
+    "Team WE": {
+        "name": "Team WE",
+        "region": "CH",
+        "offense": 1.0970777170685369,
+        "safe": 0.8402452845142959,
+        "convert": 4326.5182439241335,
+        "resist": 0.9316859967634397
+    },
+    "Invictus Gaming": {
+        "name": "Invictus Gaming",
+        "region": "CH",
+        "offense": 1.2006138533232926,
+        "safe": 0.9080262934032224,
+        "convert": 4279.492344662042,
+        "resist": 0.9804997380508507
+    },
+    "Anyone's Legend": {
+        "name": "Anyone's Legend",
+        "region": "CH",
+        "offense": 1.283242278026083,
+        "safe": 1.1134855689206005,
+        "convert": 4308.530632179221,
+        "resist": 0.8521098720255547
+    },
+    "JD Gaming": {
+        "name": "JD Gaming",
+        "region": "CH",
+        "offense": 1.1591864321330352,
+        "safe": 1.0764331631844957,
+        "convert": 4323.808390184715,
+        "resist": 0.910001540004302
+    },
+    "Bilibili Gaming": {
+        "name": "Bilibili Gaming",
+        "region": "CH",
+        "offense": 1.4521510506482191,
+        "safe": 1.0658685060342874,
+        "convert": 4322.880398526598,
+        "resist": 0.9536085805693778
+    },
+    "LGD Gaming": {
+        "name": "LGD Gaming",
+        "region": "CH",
+        "offense": 1.035981346559366,
+        "safe": 0.943849102294469,
+        "convert": 4423.584433860846,
+        "resist": 0.8104447651774958
+    },
+    "Oh My God": {
+        "name": "Oh My God",
+        "region": "CH",
+        "offense": 0.8738137793512024,
+        "safe": 0.8713215094156569,
+        "convert": 4458.791948097395,
+        "resist": 0.8991186777919481
+    },
+    "Ninjas in Pyjamas.CN": {
+        "name": "Ninjas in Pyjamas.CN",
+        "region": "CH",
+        "offense": 1.157907404613658,
+        "safe": 0.9765410390179626,
+        "convert": 4324.036514641756,
+        "resist": 0.8827935340081469
+    },
+    "Ultra Prime": {
+        "name": "Ultra Prime",
+        "region": "CH",
+        "offense": 0.8950268268683339,
+        "safe": 0.8835141409908399,
+        "convert": 4314.8024950193185,
+        "resist": 0.8884414378225249
+    },
+    "EDward Gaming": {
+        "name": "EDward Gaming",
+        "region": "CH",
+        "offense": 1.0103388810699188,
+        "safe": 0.8844237418935486,
+        "convert": 4659.585632598014,
+        "resist": 0.7903304672254332
+    },
+    "Top Esports": {
+        "name": "Top Esports",
+        "region": "CH",
+        "offense": 1.2651439702723204,
+        "safe": 0.9399015773632534,
+        "convert": 4191.617422810279,
+        "resist": 1.0588401590923386
+    },
+    "LNG Esports": {
+        "name": "LNG Esports",
+        "region": "CH",
+        "offense": 1.049831847460403,
+        "safe": 1.0034715607037894,
+        "convert": 4367.077729879297,
+        "resist": 0.831628358460343
+    },
+    "ThunderTalk Gaming": {
+        "name": "ThunderTalk Gaming",
+        "region": "CH",
+        "offense": 1.0087276591252863,
+        "safe": 0.8266486322418019,
+        "convert": 4086.254020777993,
+        "resist": 1.034459635263826
+    },
+    "Dplus Kia": {
+        "name": "Dplus Kia",
+        "region": "KR",
+        "offense": 1.171550119322421,
+        "safe": 0.9958220747687435,
+        "convert": 4762.041734179853,
+        "resist": 0.7613021093645188
+    },
+    "Kiwoom DRX": {
+        "name": "Kiwoom DRX",
+        "region": "KR",
+        "offense": 1.034963413912258,
+        "safe": 0.7751848667556173,
+        "convert": 4539.813213220103,
+        "resist": 0.8542840736731467
+    },
+    "T1": {
+        "name": "T1",
+        "region": "KR",
+        "offense": 1.351023859216545,
+        "safe": 0.9535973023154138,
+        "convert": 4521.069267244315,
+        "resist": 0.9122088620899574
+    },
+    "Gen.G": {
+        "name": "Gen.G",
+        "region": "KR",
+        "offense": 1.35043354655735,
+        "safe": 1.1759775516970397,
+        "convert": 4532.962353521801,
+        "resist": 0.8681106708358615
+    },
+    "Weibo Gaming": {
+        "name": "Weibo Gaming",
+        "region": "CH",
+        "offense": 1.1486586187613912,
+        "safe": 1.0139042141752763,
+        "convert": 4470.674760601904,
+        "resist": 0.8409173941130256
+    },
+    "Hanwha Life Esports": {
+        "name": "Hanwha Life Esports",
+        "region": "KR",
+        "offense": 1.3669020570483752,
+        "safe": 0.9540766489197151,
+        "convert": 4360.750777239137,
+        "resist": 0.9522770214517995
+    },
+    "DN SOOPers": {
+        "name": "DN SOOPers",
+        "region": "KR",
+        "offense": 0.9135827243840655,
+        "safe": 0.8136371870409616,
+        "convert": 4708.804278146582,
+        "resist": 0.8383118533229351
+    },
+    "Nongshim RedForce": {
+        "name": "Nongshim RedForce",
+        "region": "KR",
+        "offense": 1.1008908251128897,
+        "safe": 0.7557063999863449,
+        "convert": 4243.465583197964,
+        "resist": 1.037230871095804
+    },
+    "HANJIN BRION": {
+        "name": "HANJIN BRION",
+        "region": "KR",
+        "offense": 0.9859033711304909,
+        "safe": 0.8908632723929198,
+        "convert": 4823.886273386539,
+        "resist": 0.7413892271297604
+    },
+    "KT Rolster": {
+        "name": "KT Rolster",
+        "region": "KR",
+        "offense": 1.1576871563408035,
+        "safe": 0.9994783129554083,
+        "convert": 4653.72223210286,
+        "resist": 0.7684760385589776
+    },
+    "BNK FEARX": {
+        "name": "BNK FEARX",
+        "region": "KR",
+        "offense": 1.1559919932366125,
+        "safe": 0.809910904633737,
+        "convert": 4279.659770194024,
+        "resist": 0.9612459897060953
+    },
+    "LOUD": {
+        "name": "LOUD",
+        "region": "BRZ",
+        "offense": 1.1265870367907953,
+        "safe": 0.9659251747858517,
+        "convert": 4588.407434471131,
+        "resist": 0.8574393092079006
+    },
+    "paiN Gaming": {
+        "name": "paiN Gaming",
+        "region": "BRZ",
+        "offense": 1.10868879409369,
+        "safe": 0.9195941884625972,
+        "convert": 4462.136660534579,
+        "resist": 0.8140927758158168
+    },
+    "G2 Esports": {
+        "name": "G2 Esports",
+        "region": "EMEA",
+        "offense": 1.3539132578989013,
+        "safe": 1.0631797480259646,
+        "convert": 4334.703627972234,
+        "resist": 0.9320646006617281
+    },
+    "Fluxo W7M": {
+        "name": "Fluxo W7M",
+        "region": "BRZ",
+        "offense": 0.9323145502355955,
+        "safe": 0.9292685215694708,
+        "convert": 4453.728680172264,
+        "resist": 0.8691329161619709
+    },
+    "Natus Vincere": {
+        "name": "Natus Vincere",
+        "region": "EMEA",
+        "offense": 1.0372563501662442,
+        "safe": 0.8872688567031677,
+        "convert": 4989.984534895972,
+        "resist": 0.7495700718441421
+    },
+    "Shifters": {
+        "name": "Shifters",
+        "region": "EMEA",
+        "offense": 1.1325337218214742,
+        "safe": 0.8052195207639108,
+        "convert": 4626.852999131401,
+        "resist": 0.8268720096789715
+    },
+    "RED Canids": {
+        "name": "RED Canids",
+        "region": "BRZ",
+        "offense": 1.2418272281237765,
+        "safe": 0.9967976472400644,
+        "convert": 4677.2168661689275,
+        "resist": 0.7129974800187878
+    },
+    "Team Heretics": {
+        "name": "Team Heretics",
+        "region": "EMEA",
+        "offense": 0.8322098324789253,
+        "safe": 0.920334631247422,
+        "convert": 4707.745100037829,
+        "resist": 0.8447818873083988
+    },
+    "Vivo Keyd Stars": {
+        "name": "Vivo Keyd Stars",
+        "region": "BRZ",
+        "offense": 1.1168143186880661,
+        "safe": 0.9496667752563533,
+        "convert": 4398.604657893585,
+        "resist": 0.8715912397688323
+    },
+    "FURIA": {
+        "name": "FURIA",
+        "region": "BRZ",
+        "offense": 1.217455926369744,
+        "safe": 1.1190230414981863,
+        "convert": 4550.858504002709,
+        "resist": 0.7629585736197204
+    },
+    "Movistar KOI": {
+        "name": "Movistar KOI",
+        "region": "EMEA",
+        "offense": 1.2336938684140673,
+        "safe": 0.9626835007064322,
+        "convert": 4506.234148743764,
+        "resist": 0.8627360514800391
+    },
+    "SK Gaming": {
+        "name": "SK Gaming",
+        "region": "EMEA",
+        "offense": 1.0537352213951887,
+        "safe": 0.7282726530918063,
+        "convert": 4571.148033554789,
+        "resist": 0.896704387048188
+    },
+    "Team Vitality": {
+        "name": "Team Vitality",
+        "region": "EMEA",
+        "offense": 1.2039947635607633,
+        "safe": 0.8834436045569863,
+        "convert": 4543.974699352616,
+        "resist": 0.9125687766231658
+    },
+    "Fnatic": {
+        "name": "Fnatic",
+        "region": "EMEA",
+        "offense": 1.1757051364437476,
+        "safe": 0.9317677684492767,
+        "convert": 4342.894193024506,
+        "resist": 0.9303869815048854
+    },
+    "Ground Zero Gaming": {
+        "name": "Ground Zero Gaming",
+        "region": "APAC",
+        "offense": 1.1219672582243883,
+        "safe": 1.0566181288455458,
+        "convert": 4302.562727809994,
+        "resist": 0.8818945635479201
+    },
+    "Cloud9": {
+        "name": "Cloud9",
+        "region": "NA",
+        "offense": 1.2254876839569673,
+        "safe": 1.1093887698046552,
+        "convert": 4553.35069308094,
+        "resist": 0.7877137028771674
+    },
+    "FlyQuest": {
+        "name": "FlyQuest",
+        "region": "NA",
+        "offense": 1.255668951553528,
+        "safe": 0.9589389384329561,
+        "convert": 4333.202619389678,
+        "resist": 0.8870623125845731
+    },
+    "Team Liquid": {
+        "name": "Team Liquid",
+        "region": "NA",
+        "offense": 1.262982252219517,
+        "safe": 1.046734714435012,
+        "convert": 4271.913764532175,
+        "resist": 0.8769262998224155
+    },
+    "Dignitas": {
+        "name": "Dignitas",
+        "region": "NA",
+        "offense": 0.9054294335965755,
+        "safe": 0.7777952426590697,
+        "convert": 4443.114052669608,
+        "resist": 0.9383125756929651
+    },
+    "Shopify Rebellion": {
+        "name": "Shopify Rebellion",
+        "region": "NA",
+        "offense": 0.9869785681912246,
+        "safe": 0.8356683665542821,
+        "convert": 4504.180408232487,
+        "resist": 0.868567726284192
+    },
+    "DetonatioN FocusMe": {
+        "name": "DetonatioN FocusMe",
+        "region": "APAC",
+        "offense": 0.9604265334725979,
+        "safe": 1.1388830197239195,
+        "convert": 4264.281266659595,
+        "resist": 0.9047997001809694
+    },
+    "Fukuoka SoftBank HAWKS gaming": {
+        "name": "Fukuoka SoftBank HAWKS gaming",
+        "region": "APAC",
+        "offense": 1.0274017380683715,
+        "safe": 1.2948817677236246,
+        "convert": 4529.872292564872,
+        "resist": 0.7909036755078869
+    },
+    "FENNEL": {
+        "name": "FENNEL",
+        "region": "APAC",
+        "offense": 1.221895361337842,
+        "safe": 1.2949598642748408,
+        "convert": 4185.215777641899,
+        "resist": 1.0806715861256073
+    },
+    "CTBC Flying Oyster": {
+        "name": "CTBC Flying Oyster",
+        "region": "APAC",
+        "offense": 1.3018315329119778,
+        "safe": 1.4454141373915774,
+        "convert": 4378.260877175366,
+        "resist": 0.8313858290717168
+    },
+    "Deep Cross Gaming": {
+        "name": "Deep Cross Gaming",
+        "region": "APAC",
+        "offense": 1.345493075647794,
+        "safe": 1.2093708750889445,
+        "convert": 4140.282655756631,
+        "resist": 0.9922118508003569
+    },
+    "Frank Esports": {
+        "name": "Frank Esports",
+        "region": "APAC",
+        "offense": 1.1500744229146245,
+        "safe": 1.4329126227997329,
+        "convert": 4139.388208150621,
+        "resist": 0.9473689062065891
+    },
+    "MVK Esports": {
+        "name": "MVK Esports",
+        "region": "APAC",
+        "offense": 1.1398486064710251,
+        "safe": 1.3524832497401784,
+        "convert": 4841.281447625711,
+        "resist": 0.7318645757881436
+    },
+    "Team Secret": {
+        "name": "Team Secret",
+        "region": "APAC",
+        "offense": 1.0867575854080056,
+        "safe": 1.221702379617491,
+        "convert": 4450.098504704762,
+        "resist": 0.8994058102897683
+    },
+    "GAM Esports": {
+        "name": "GAM Esports",
+        "region": "APAC",
+        "offense": 1.2552891796506782,
+        "safe": 1.395077551129192,
+        "convert": 4706.4123700207765,
+        "resist": 0.7224376977109014
+    },
+    "Leviatan": {
+        "name": "Leviatan",
+        "region": "BRZ",
+        "offense": 0.9595058481567611,
+        "safe": 0.8527778402916969,
+        "convert": 4608.090563155477,
+        "resist": 0.799123398437057
+    },
+    "Karmine Corp": {
+        "name": "Karmine Corp",
+        "region": "EMEA",
+        "offense": 1.2930389572644394,
+        "safe": 1.0376457177145744,
+        "convert": 4654.6237443584705,
+        "resist": 0.7711461987301935
+    },
+    "GIANTX": {
+        "name": "GIANTX",
+        "region": "EMEA",
+        "offense": 1.0452001637152515,
+        "safe": 0.9264670021315918,
+        "convert": 4685.376718881164,
+        "resist": 0.7966135544696189
+    },
+    "Team Secret Whales": {
+        "name": "Team Secret Whales",
+        "region": "APAC",
+        "offense": 1.4612642010709513,
+        "safe": 1.525709818487203,
+        "convert": 4336.969286758037,
+        "resist": 0.806852058159254
+    },
+    "LYON": {
+        "name": "LYON",
+        "region": "NA",
+        "offense": 1.2863306473986038,
+        "safe": 1.056681569829634,
+        "convert": 4791.066460687195,
+        "resist": 0.720193817563867
+    },
+    "Disguised": {
+        "name": "Disguised",
+        "region": "NA",
+        "offense": 0.9359157860053582,
+        "safe": 0.7185672343048142,
+        "convert": 4528.141109140894,
+        "resist": 0.9783153165107781
+    },
+    "Yang Yang Gaming": {
+        "name": "Yang Yang Gaming",
+        "region": "APAC",
+        "offense": 0.9720880841906704,
+        "safe": 0.8599392183483654,
+        "convert": 3795.2044698546442,
+        "resist": 1.0963313842173894
+    },
+    "RAYN Clocks": {
+        "name": "RAYN Clocks",
+        "region": "APAC",
+        "offense": 0.9650135197246761,
+        "safe": 0.9214033301198475,
+        "convert": 4424.671019193478,
+        "resist": 0.9623918228702587
+    },
+    "VARREL YOUTH": {
+        "name": "VARREL YOUTH",
+        "region": "APAC",
+        "offense": 0.8290532724742927,
+        "safe": 1.0167057041237335,
+        "convert": 4400.894917589017,
+        "resist": 0.9278250378410975
+    },
+    "DetonatioN FocusMe Academy": {
+        "name": "DetonatioN FocusMe Academy",
+        "region": "APAC",
+        "offense": 1.0474753115529456,
+        "safe": 0.7439861552428028,
+        "convert": 3977.390421769117,
+        "resist": 1.1422154701723448
+    },
+    "CTBC Flying Oyster Academy": {
+        "name": "CTBC Flying Oyster Academy",
+        "region": "APAC",
+        "offense": 1.2253138568482616,
+        "safe": 1.0136782710762262,
+        "convert": 4393.213442353406,
+        "resist": 0.9307996487021503
+    },
+    "1TAP Dino": {
+        "name": "1TAP Dino",
+        "region": "APAC",
+        "offense": 1.0497849058689388,
+        "safe": 1.0041189685017728,
+        "convert": 4395.971163011922,
+        "resist": 0.9315150360915047
+    },
+    "SN CyberCore Esports": {
+        "name": "SN CyberCore Esports",
+        "region": "APAC",
+        "offense": 1.0026029575424058,
+        "safe": 0.8490688216232523,
+        "convert": 4401.744278531294,
+        "resist": 0.9720942006357669
+    },
+    "wangting": {
+        "name": "wangting",
+        "region": "APAC",
+        "offense": 1.2958336060172317,
+        "safe": 0.8801240928890732,
+        "convert": 3537.6684002745374,
+        "resist": 1.1896780466846166
+    },
+    "MVK Esports Academy": {
+        "name": "MVK Esports Academy",
+        "region": "APAC",
+        "offense": 1.2827845337697432,
+        "safe": 1.0949392401241207,
+        "convert": 4431.814722144534,
+        "resist": 0.9554667370894441
+    },
+    "Sentinels": {
+        "name": "Sentinels",
+        "region": "NA",
+        "offense": 1.0637900441020887,
+        "safe": 0.8975406738552231,
+        "convert": 4897.082332639592,
+        "resist": 0.7120249381962103
+    },
+    "NOVEX": {
+        "name": "NOVEX",
+        "region": "APAC",
+        "offense": 1.0428640890043808,
+        "safe": 0.9261032208221534,
+        "convert": 4049.127426323015,
+        "resist": 0.9167742603264057
+    },
+    "Uwinks": {
+        "name": "Uwinks",
+        "region": "APAC",
+        "offense": 0.9397432716996736,
+        "safe": 0.8706412294024631,
+        "convert": 4641.9229566058,
+        "resist": 0.9244546160526034
+    },
+    "L Guide Gaming": {
+        "name": "L Guide Gaming",
+        "region": "APAC",
+        "offense": 1.0995598929936252,
+        "safe": 0.9159770271422375,
+        "convert": 4099.90569651489,
+        "resist": 1.0231065318959531
+    },
+    "Fast8": {
+        "name": "Fast8",
+        "region": "APAC",
+        "offense": 0.8092471158462945,
+        "safe": 0.7905582708828875,
+        "convert": 4184.84612992665,
+        "resist": 1.0297365883148824
+    },
+    "Rising Gaming": {
+        "name": "Rising Gaming",
+        "region": "APAC",
+        "offense": 1.2743689916810355,
+        "safe": 1.1033117711440275,
+        "convert": 4349.465827865939,
+        "resist": 0.9116458020128048
+    },
+    "New Meta": {
+        "name": "New Meta",
+        "region": "APAC",
+        "offense": 1.0281009914742252,
+        "safe": 0.9563097699863435,
+        "convert": 4861.5422888607,
+        "resist": 0.9362704032917194
+    },
+    "Inferno Drive Tokyo": {
+        "name": "Inferno Drive Tokyo",
+        "region": "APAC",
+        "offense": 1.025721556563878,
+        "safe": 1.039432849363931,
+        "convert": 5022.981850465904,
+        "resist": 0.7721675887869167
+    },
+    "Saigon Warriors": {
+        "name": "Saigon Warriors",
+        "region": "APAC",
+        "offense": 1.196545070986484,
+        "safe": 1.2592473442684173,
+        "convert": 4295.275857303764,
+        "resist": 0.9979097205617106
+    },
+    "9Gaming": {
+        "name": "9Gaming",
+        "region": "APAC",
+        "offense": 1.0647449024906699,
+        "safe": 0.9126313215135596,
+        "convert": 4444.894080109111,
+        "resist": 0.941666184236833
+    },
+    "Xu Ji Basalt": {
+        "name": "Xu Ji Basalt",
+        "region": "APAC",
+        "offense": 0.9421192234249729,
+        "safe": 0.7465661647943207,
+        "convert": 3782.578038876208,
+        "resist": 1.0310830818390602
+    },
+    "SillySilly Gaming": {
+        "name": "SillySilly Gaming",
+        "region": "APAC",
+        "offense": 1.1653749389886932,
+        "safe": 1.296695186857099,
+        "convert": 3830.527311668362,
+        "resist": 1.0357420911158874
+    },
+    "One Round Specialists": {
+        "name": "One Round Specialists",
+        "region": "APAC",
+        "offense": 1.015516792525008,
+        "safe": 0.8055528607825823,
+        "convert": 3463.064488929533,
+        "resist": 1.0662344812618092
+    },
+    "Shadow Keepers Esports": {
+        "name": "Shadow Keepers Esports",
+        "region": "APAC",
+        "offense": 1.3040211732853484,
+        "safe": 0.9186607494943414,
+        "convert": 4094.529910441942,
+        "resist": 1.057766585313592
+    },
+    "Embrace Whatever Happens": {
+        "name": "Embrace Whatever Happens",
+        "region": "APAC",
+        "offense": 0.8057683056131998,
+        "safe": 0.8059529083929544,
+        "convert": 4485.345802015197,
+        "resist": 0.8934733135678011
+    },
+    "Ground Zero Academy": {
+        "name": "Ground Zero Academy",
+        "region": "APAC",
+        "offense": 0.8173359066141704,
+        "safe": 0.7196870832824854,
+        "convert": 4215.200206184508,
+        "resist": 0.9296917129879957
+    },
+    "Viper Night Raider": {
+        "name": "Viper Night Raider",
+        "region": "APAC",
+        "offense": 0.8784391565544174,
+        "safe": 1.1107814489613248,
+        "convert": 4155.532222891482,
+        "resist": 0.9539041224839887
+    },
+    "Arneb": {
+        "name": "Arneb",
+        "region": "APAC",
+        "offense": 1.150611436804892,
+        "safe": 1.159497690066964,
+        "convert": 4311.674721039452,
+        "resist": 0.8169195192882495
+    },
+    "ZEN Esports": {
+        "name": "ZEN Esports",
+        "region": "APAC",
+        "offense": 1.1489680988641893,
+        "safe": 1.0180567812085335,
+        "convert": 4438.209552116898,
+        "resist": 0.8864142804053042
+    },
+    "Sponge Gaming": {
+        "name": "Sponge Gaming",
+        "region": "APAC",
+        "offense": 0.9280168999779937,
+        "safe": 0.8545777500311379,
+        "convert": 3648.0361585041214,
+        "resist": 1.0558317634078427
+    },
+    "RogerSaMa": {
+        "name": "RogerSaMa",
+        "region": "APAC",
+        "offense": 0.9888082608792004,
+        "safe": 0.7751138915121311,
+        "convert": 3877.9546511677845,
+        "resist": 1.0012293160750974
+    },
+    "Reignfall": {
+        "name": "Reignfall",
+        "region": "APAC",
+        "offense": 0.9173082543317325,
+        "safe": 0.8717438009290887,
+        "convert": 4193.165394594404,
+        "resist": 1.0168959437542637
+    }
+}

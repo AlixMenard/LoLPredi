@@ -1,0 +1,44 @@
+{
+    "CH": {
+        "name": "CH",
+        "offense_modifier": 3.910532408516101,
+        "safe_modifier": 0.3287822443374602,
+        "convert_modifier": 3.647065281340831,
+        "resist_modifier": 0.21048546823914563
+    },
+    "KR": {
+        "name": "KR",
+        "offense_modifier": 4.012630936371346,
+        "safe_modifier": 0.366215688068219,
+        "convert_modifier": 3.5371372751362085,
+        "resist_modifier": 0.2335509548535556
+    },
+    "BRZ": {
+        "name": "BRZ",
+        "offense_modifier": 3.0161388796418507,
+        "safe_modifier": 0.2550187049672215,
+        "convert_modifier": 3.641070260772377,
+        "resist_modifier": 0.23068841650371824
+    },
+    "EMEA": {
+        "name": "EMEA",
+        "offense_modifier": 3.379011959674602,
+        "safe_modifier": 0.30693963765684096,
+        "convert_modifier": 3.6913067639291532,
+        "resist_modifier": 0.2217912565830112
+    },
+    "APAC": {
+        "name": "APAC",
+        "offense_modifier": 3.197237593751684,
+        "safe_modifier": 0.20053363898454885,
+        "convert_modifier": 3.6428409037097915,
+        "resist_modifier": 0.255424548650817
+    },
+    "NA": {
+        "name": "NA",
+        "offense_modifier": 3.3209058348855693,
+        "safe_modifier": 0.31159873579131947,
+        "convert_modifier": 3.6199333629879975,
+        "resist_modifier": 0.22198322985678043
+    }
+}
